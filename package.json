@@ -1,0 +1,16 @@
+{
+  "name": "space_business",
+  "version": "1.0.0",
+  "description": "does marketing for spacegame",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js",
+    "tweet": "node index.js tweet"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "twitter": "^1.2.5",
+    "underscore": "^1.8.3"
+  }
+}
