@@ -1,6 +1,6 @@
 var TextData = {
   goodAdjective: [
-    "Amusing",    "ASMR",       "Assorted",     "Battle",     "Black",      "Blue",
+    "Amusing",    "ASMR",       "Assorted",     "Battle",     "Blue",
     "Bubbling",   "Charm",      "Crystal",      "Data",       "Delightful",
     "Dope",       "Dream",      "Eyeball",      "Fire",       "Flat",
     "Flux",       "Fungus",     "Gas",          "God",        "Grow",
